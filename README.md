@@ -76,18 +76,30 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 Placement data:
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/8719fcd3-382f-4f5c-9747-943091da67df)
 Salary data:
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/d6f40bed-beed-483f-ae04-da206dac833c)
 
 
 Checking The null() function():
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/6b4f5c5a-31fb-4c26-aa70-3907079281bf)
 Data duplicate:
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/452e874f-7121-4369-b49e-eb8ef67ceebd)
 Print Data:
+
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/13d4e1f4-580b-4e5b-97e2-34b220a6b4bc)
 Data status():
+
+
 
 
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/6e27e324-962e-462e-9bbc-b51ca5204bc3)
