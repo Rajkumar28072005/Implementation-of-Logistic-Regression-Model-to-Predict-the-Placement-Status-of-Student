@@ -114,6 +114,7 @@ Accuracy value:
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/c0e4f5ff-d33b-4147-aa91-0421e15879d7)
 
 Confusion array:
+
 ![image](https://github.com/DHARSAN23014208/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149365413/3bc41d59-6e8f-4087-bac2-dc8315839a25)
 
 
